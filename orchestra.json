@@ -1,0 +1,13 @@
+{
+    "name": "Safety",
+    "description": "Safety and Medical Extension",
+    "author": "Ahsanul Kabir",
+    "url": "https://github.com/",
+    "version": "1.0.0",
+    "config": {
+        "handles": "Safety"
+    },
+    "provides": [
+        "Blupl\\Safety\\SafetyServiceProvider"
+    ]
+}
